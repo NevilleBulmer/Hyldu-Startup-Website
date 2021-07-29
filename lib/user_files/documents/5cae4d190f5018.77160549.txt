@@ -1,0 +1,19 @@
+Explanation of how cloud IDE's work: https://www.quora.com/How-does-the-Nitrous-IO-web-based-IDE-work
+CloudAce IDE possible wordpress plugin?: https://medium.com/@roaramburu/ace-cloud-ide-integrated-public-environments-and-terminal-power-94790dec5df5
+
+
+StackBlitz showcase: https://stackblitz.com/edit/react-7zvafp?file=main.java
+Compulves twitter post about CloudIDE's: https://twitter.com/CompuIves
+AtomIDE in the browser github: https://github.com/facebook-atom/atom-in-orbit
+
+
+Visual studio code served in the browser XWindow?: http://blog.ctaggart.com/2016/05/visual-studio-code-served-from-docker.html
+Information on VSCode in the browser (Docker-Videos): https://www.google.com/search?rlz=1C1CHBF_en-GBGB820GB820&biw=1921&bih=988&tbm=vid&ei=I9VyXNm4IISV1fAP_diAuAM&q=%22rvisual+studio+code+in+a+docker+container%22&oq=%22rvisual+studio+code+in+a+docker+container%22&gs_l=psy-ab.3...7485.7485.0.7724.1.1.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..1.0.0....0.jOhEav0WkxM
+Information on VSCode in the browser (Docker): https://www.google.com/search?q=visual+studio+code+docker+image&rlz=1C1CHBF_en-GBGB820GB820&oq=visual+studio+code+docker+image&aqs=chrome.0.0l3.5783j1j7&sourceid=chrome&ie=UTF-8
+
+Docker image for VSCode in the broswer: https://github.com/cmiles74/docker-vscode
+Docker image for VSCode in the broswer (POSSIBLY BETTER): https://hub.docker.com/r/sebmoule/docker-vscode/
+
+
+/* Using php to launch a docker container */
+Running a docker container using php: https://docker-php.readthedocs.io/en/latest/cookbook/container-run/

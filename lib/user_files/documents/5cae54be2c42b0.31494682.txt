@@ -1,0 +1,37 @@
+docker run --name codetest -d -p 8000:8000 -v /local/dir:/workspace  -e ACCOUNT="user1:password1,user2:password2" kaleocheng/codebox
+
+
+When in production the command -v /local/dir:/workspace will be replaced with the users workspace I.e.
+-v /local/{Username}:/workspace
+
+Also for higher tier accounts the command -e ACCOUNT="user1:password1,user2:password2" will be replaced with -e ACCOUNT="
+	{UsernameOfUser}:{PasswordOfUser},
+	{TempUsernameOne}:{TempPasswordOne},	
+	{TempUsernameTwo}:{TempPasswordTwo},
+	{TempUsernameThree}:{TempPasswordThree},
+	{TempUsernameFour}:{TempPasswordFour}"
+
+
+Standard access
+docker run -d -p {AssignedPort}:{AssignedPort} \
+	-v /local/{Username}:/workspace \
+	-e ACCOUNT="user:password" \
+	 collaborait/collaborait
+
+Pro access
+docker run -d -p {AssignedPort}:{AssignedPort} \
+	-v /local/{Username}:/workspace \
+	-e ACCOUNT="user1:password1,user2:password2,user3:password3" \
+	collaborait/collaborait
+
+Premium access
+docker run -d -p {AssignedPort}:{AssignedPort} \
+	-v /local/{Username}:/workspace \
+	-e ACCOUNT="user1:password1,user2:password2,user3:password3,user4:password4,user5:password5" \
+	collaborait/collaborait
+
+
+Create a welcome message, explanation of how things work.
+
+Templates need sdoing, cmpleting.
+

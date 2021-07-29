@@ -1,0 +1,43 @@
+452b78 PURPLE TO BE REMOVED
+
+c41b1b RED
+
+eed757 YELLOW
+
+058226 GREEN
+
+153070 BLUE 21, 48, 112
+
+Set the images for profile accounts to auto crop to 100X100
+
+Legal and obligation fino for footer links, signup page t&cs'
+
+Social feed links
+
+Make contact look nicer
+
+Reviews for about us page
+
+20 user accounts to be created
+
+20 example projects to be created
+
+Champion button to be added to the project page so people can invest
+
+First 2/3 pages of buisness plan to be visible on the project page, contact owner for more
+
+Clear definition needed of the diference between free, paid, premium accounts
+
+Possibly more images and info boxes for the found project page
+
+Also possibly remove upload image button and use a default image (clickable) untill an actual image is provided
+
+Implement save as draft functionality
+
+Diplay how many project you have ongoing o your accounts
+
+Possbly make this information available to investers I.e. visits your account and can see how man and a brief about each project you have
+
+Possibility of admin accounts/dashboard
+
+Fix color scheme for login/signup
